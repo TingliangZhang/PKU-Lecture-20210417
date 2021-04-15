@@ -5,6 +5,14 @@
 
 
 
+元培×极客创意动手实践课
+
+模块二 课程主题二: AI艺术图像迁移及近场通讯展示.
+
+https://mp.weixin.qq.com/s/RXo18wlO2YcmIqOoUKuKgA
+
+
+
 ## 涵盖的领域
 
 
