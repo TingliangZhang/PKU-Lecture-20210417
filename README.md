@@ -15,6 +15,12 @@ https://mp.weixin.qq.com/s/RXo18wlO2YcmIqOoUKuKgA
 
 ## 涵盖的领域
 
+电路相关
+
+NFC射频技术
+
+PCB相关
+
 
 
 ## Outline
@@ -35,3 +41,6 @@ PCB和电路相关知识
 
 
 
+## 参考PPT
+
+PCB培训PPT
