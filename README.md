@@ -73,6 +73,8 @@ PCB Layout设计
 
 https://eds.st.com/antenna/
 
+https://www.bilibili.com/video/BV1pf4y1v7RL
+
 
 
 ## 一些计算
