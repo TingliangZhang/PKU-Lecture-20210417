@@ -66,3 +66,44 @@ Datasheet阅读
 PCB Layout设计
 
 交付打样的流程
+
+
+
+## 用得到的网页链接
+
+https://eds.st.com/antenna/
+
+
+
+## 一些计算
+
+电路中天线电感计算计算：
+
+主要参考AN2866 -  Antenna design procedure
+
+Internal tuning capacitor in ST25DV04K SO8N(f = 13.56 MHz) $C_{TUN} = 28.5 pF$
+
+计算公式：
+$$
+L_{A} C_{S} \omega^{2}=1
+$$
+具体推导：
+$$
+L_{A}=\frac{1}{4 \pi^{2} f^{2} C_{S}}
+$$
+
+$$
+L_{A}=\frac{1}{4*3.14^{2}*13.56^{2}*28.5}=4.84uH
+$$
+
+
+
+## 用得到的参数
+
+嘉立创PCB成品外层铜厚1oz~2oz(35um~70um)选择35um
+
+单片出货，走线和焊盘距板边距离≥0.2mm，否则可能涉及到板内的线路及焊盘。
+
+直接留3.18mm边缘。
+
+最小线隙，多层板3.5mil 单双面板5mil (1mil=1/1000inch=0.0254mm)
