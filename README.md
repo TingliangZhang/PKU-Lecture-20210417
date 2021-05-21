@@ -50,3 +50,19 @@ PCB和电路相关知识
 ## 参考PPT
 
 PCB培训PPT
+
+
+
+## Timeline
+
+Datasheet阅读
+
+原理图设计
+
+元件选型和采购，封装确认
+
+绘制天线
+
+PCB Layout设计
+
+交付打样流程
